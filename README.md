@@ -43,4 +43,4 @@ main();
 
 # Community
 
-This project is updated on demand. If you have a question, found a bug or similar feel free to ask [here]().
+This project is updated on demand. If you have a question, found a bug or similar feel free to ask [here](https://github.com/harrydehix/dwd-warn/issues/new).
